@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 指引自定义View的属性 -->
+    <declare-styleable name="GuideView">
+        <attr name="background_translucent" format="color" />
+    </declare-styleable>
+</resources>

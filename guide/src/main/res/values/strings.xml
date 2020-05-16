@@ -1,0 +1,39 @@
+<resources>
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+    <!-- 权限的字符串 -->
+    <string name="permission_jump_settings_page">为了正常使用App，请到系统设置页面打开%s权限！</string>
+    <string name="permission_message_permission_denied">当前App无%s权限</string>
+    <string name="permission_message_permission_rationale">为了保证功能的正常使用，请开启%s权限</string>
+    <string name="permission_prompt_open_permission_help">为了保证正常使用，需要您开启%s权限！\n具体操作请点击帮助查看。</string>
+    <string name="permission_dialog_negative_btn_text">取消</string>
+    <string name="permission_text_permission_denied_forever_positive_btn">前往</string>
+    <string name="permission_text_permission_rationale_positive_btn">开启</string>
+    <string name="permission_prompt_open_permission_by_settings">为了保证功能的正常使用，\n请前往设置app开启%s权限</string>
+    <string name="permission_button_text_permission_denied_warning_dialog">好的</string>
+    <string name="permission_location">位置</string>
+    <string name="permission_storage">存储</string>
+    <string name="permission_camera">相机</string>
+    <string name="permission_record">record</string>
+    <string name="permission_waring_text_bluetooth_enable_failed">请在设置&gt;蓝牙中将蓝牙打开</string>
+
+    <!--  来源: https://github.com/yanzhenjie/AndPermission -->
+    <string name="permission_name_calendar">日历</string>
+    <string name="permission_name_camera">相机</string>
+    <string name="permission_name_contacts">手机账号/通讯录</string>
+    <string name="permission_name_location">位置信息</string>
+    <string name="permission_name_microphone">麦克风</string>
+    <string name="permission_name_phone">电话</string>
+    <string name="permission_name_call_log">通话记录</string>
+    <string name="permission_name_sensors">身体传感器</string>
+    <string name="permission_name_activity_recognition">健身运动</string>
+    <string name="permission_name_sms">短信</string>
+    <string name="permission_name_storage">存储空间</string>
+    <string name="permission_name_system_alert">悬浮框</string>
+    <string name="permission_requesting">正在请求授权…</string>
+
+    <string name="next_step">下一步</string>
+    <string name="pre_step">上一步</string>
+    <string name="end">结束</string>
+
+</resources>

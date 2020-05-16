@@ -1,0 +1,3 @@
+rootProject.name='GuideView'
+include ':app'
+include ':guide'

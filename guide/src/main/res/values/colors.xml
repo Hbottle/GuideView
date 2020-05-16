@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#75BAE7</color>
+    <color name="colorPrimaryDark">#75BAE7</color>
+    <color name="colorAccent">#75BAE7</color>
+    <color name="translucent">#aa000000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="activityBackground">#F2F2F2</color>
+    <color name="recycler_item_press">#e2e2e2</color>
+    <color name="red">#FF0000</color>
+    <color name="text_title">#111111</color>
+    <color name="text_color">#606060</color>
+    <color name="alpha_bg">#90606060</color>
+</resources>
+
